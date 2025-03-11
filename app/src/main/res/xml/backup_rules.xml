@@ -9,6 +9,6 @@
     <!--
    <include domain="sharedpref" path="."/>
    <exclude domain="sharedpref" path="device.xml"/>
-   //AIzaSyArSEZfyE7A65oiJFpOxfTQRjkQOjwX0go
+   //
 -->
 </full-backup-content>
